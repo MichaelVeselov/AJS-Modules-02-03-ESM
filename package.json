@@ -1,0 +1,18 @@
+{
+    "name": "ajs-ht-02-03-esm",
+    "version": "1.0.0",
+    "description": "AJS-HomeTasks-02-Modules-02-03-ESM",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MichaelVeselov/AJS-Modules-02-03-ESM.git"
+    },
+    "scripts": {
+        "start": "live-server src"
+    },
+    "author": "MVE",
+    "license": "ISC",
+    "devDependencies": {
+        "live-server": "^1.2.1"
+    }
+}
